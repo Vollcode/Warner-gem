@@ -1,3 +1,4 @@
 #!/usr/bin/env ruby
 
 require 'warner'
+Warner.check_apikey
